@@ -3,6 +3,8 @@
 
 # Python程序编译
 
+实现将Python代码转为可执行程序的服务。
+
 ```
 export GOOS=windows && export GOARCH=amd64
 go build
